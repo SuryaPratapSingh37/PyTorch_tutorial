@@ -1,1 +1,2 @@
 # PyTorch_tutorial
+The objective of this project was to gain experience working with the PyTorch machine learning framework using the Google Colab development environment. In this project, I implemented a collection of functions using core functionality of PyTorch Tensor objects. The python file(pytorch101.py) contains the implementation of functions, and the notebook (pytorch101.ipynb) helps to test and visualize the results of those implementations.
